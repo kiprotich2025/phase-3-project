@@ -4,8 +4,9 @@
 Build a classifier to predict whether a customer will ("soon") stop doing business with telecommunications company. This is a binary classification problem.
 
 Most naturally, your audience here would be the telecom business itself, interested in reducing how much money is lost because of customers .
-![alt text](<image 1-2.png>)
-![alt text](<image 2-1.png>)
+
+![alt text](<image 1.png>)
+![alt text](<image 2.png>)
 ![alt text](<image 3.png>)
 ![alt text](<image 4.png>)
 ![alt text](<image 5.png>)
